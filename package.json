@@ -1,7 +1,7 @@
 {
   "name": "sw-toolbox-example",
   "version": "1.0.0",
-  "description": "Basic sw-toolbox example, to be used as template",
+  "description": "Basic sw-toolbox example with HAPI backend, to be used as template",
   "main": "app.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"

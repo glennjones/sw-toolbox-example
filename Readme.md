@@ -1,6 +1,7 @@
 # sw-toolbox example
 
-A simple sw-toolbox example site with HAPI backend. Has five pages and a basic sw-toolbox setup
+A simple Google [sw-toolbox](https://github.com/GoogleChrome/sw-toolbox) example site with HAPI backend.
+Has five pages and a very basic sw-toolbox setup. It meant as a boilerplate on which I can build experiments.
 
 ``` bash
 $ git clone https://github.com/glennjones/sw-toolbox-example
