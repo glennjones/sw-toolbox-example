@@ -1,0 +1,11 @@
+{
+  "name": "sw-toolbox-example",
+  "short_name": "sw-tb-example",
+  "icons": [{
+        "src": "images/photo-small-128.png",
+        "sizes": "128x128",
+        "type": "image/png"
+      }],
+  "start_url": "/",
+  "display": "standalone"
+}

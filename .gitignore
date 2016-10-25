@@ -1,0 +1,10 @@
+.DS_Store
+v8.log
+node_modules
+npm-debug.log
+temp
+pem
+logs
+errors
+
+.env
